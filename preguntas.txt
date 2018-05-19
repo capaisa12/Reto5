@@ -1,0 +1,7 @@
+Nombre de libreria de javascript que simplifica el manejo de eventos-jquery
+sigla de HyperText Markup Language version 5-html
+lenguaje de diseño grafico para definir y crear la presentacion de un documento html-css
+framework para aplicaciones web de software libre y codigo abierto-sinatra
+lenguaje de programación dinámico y de código abierto enfocado en la simplicidad y productividad-ruby
+framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby-rails
+protocolo de comunicación que permite las transferencias de información en la World Wide Web-http
